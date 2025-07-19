@@ -10,20 +10,6 @@
 
 ---
 
-## 📌 İçindekiler / Table of Contents
-
-| Türkçe Bölüm | English Section |
-|-------------|-----------------|
-| [🚀 Özellikler](#-özellikler) | [🚀 Features](#-features) |
-| [🛠️ Teknolojiler](#-teknolojiler) | [🛠️ Technologies](#-technologies) |
-| [📦 Kurulum](#-kurulum--installation) | [📦 Installation](#-kurulum--installation) |
-| [📁 Dizin Yapısı](#-dizin-yapısı--folder-structure) | [📁 Folder Structure](#-dizin-yapısı--folder-structure) |
-| [👤 Kullanıcı Akışı](#-kullanıcı-akışı--user-flow) | [👤 User Flow](#-kullanıcı-akışı--user-flow) |
-| [📷 Ekran Görüntüleri](#-ekran-görüntüleri--screenshots) | [📷 Screenshots](#-ekran-görüntüleri--screenshots) |
-| [📝 Katkı](#-katkıda-bulunmak--contributing) | [📝 Contributing](#-katkıda-bulunmak--contributing) |
-| [📄 Lisans](#-lisans--license) | [📄 License](#-lisans--license) |
-
----
 
 ## 🚀 Özellikler / Features
 
