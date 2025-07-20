@@ -39,7 +39,7 @@
 ## 📦 Kurulum / Installation
 
 ```bash
-git clone https://github.com/kullaniciadi/mirket.git
+git clone ...
 cd mirket
 npm install
 npm run dev
