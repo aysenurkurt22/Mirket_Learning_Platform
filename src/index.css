@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background: linear-gradient(135deg, #f0f4ff 0%, #f9f5ff 100%);
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+button {
+  font-family: inherit;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

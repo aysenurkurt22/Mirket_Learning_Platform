@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "React ile Web Geliştirme",
+    "instructor": "Ayşenur Kurt",
+    "price": 299,
+    "category": "Frontend",
+    "rating": 4.8,
+    "students": 210,
+    "description": "React öğrenmek isteyenler için sıfırdan ileri seviyeye!",
+    "videoUrl": "https://www.youtube.com/embed/xyz",
+    "lessons": [
+      { "title": "Giriş", "duration": "5 dk" },
+      { "title": "useState Kullanımı", "duration": "12 dk" }
+    ],
+    "image": "/images/react-course.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Node.js ile Backend Geliştirme",
+    "instructor": "Mehmet Yılmaz",
+    "price": 349,
+    "category": "Backend",
+    "rating": 4.7,
+    "students": 180,
+    "description": "Node.js ile REST API ve gerçek dünya projeleri!",
+    "videoUrl": "https://www.youtube.com/embed/abc",
+    "lessons": [
+      { "title": "Node.js'e Giriş", "duration": "7 dk" },
+      { "title": "Express.js ile API", "duration": "15 dk" }
+    ],
+    "image": "/images/node-course.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mobil Uygulama Geliştirme",
+    "instructor": "Zeynep Demir",
+    "price": 399,
+    "category": "Mobil",
+    "rating": 4.9,
+    "students": 150,
+    "description": "React Native ile mobil uygulama geliştirme rehberi.",
+    "videoUrl": "https://www.youtube.com/embed/def",
+    "lessons": [
+      { "title": "React Native Nedir?", "duration": "6 dk" },
+      { "title": "İlk Mobil Proje", "duration": "14 dk" }
+    ],
+    "image": "/images/mobile-course.jpg"
+  }
+]
