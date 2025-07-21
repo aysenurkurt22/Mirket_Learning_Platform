@@ -1,6 +1,5 @@
 <h1 align="center">
-  
-  Mirket - Online Eğitim Platformu
+   Mirket - Online Eğitim Platformu
 </h1>
 
 <p align="center">
@@ -39,7 +38,7 @@
 ## 📦 Kurulum / Installation
 
 ```bash
-git clone ...
+git clone ....
 cd mirket
 npm install
 npm run dev
