@@ -38,7 +38,7 @@
 ## 📦 Kurulum / Installation
 
 ```bash
-git clone ....
+git clone ...
 cd mirket
 npm install
 npm run dev
