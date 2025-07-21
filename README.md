@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/online-course.png" width="40"/>
+  
   Mirket - Online Eğitim Platformu
 </h1>
 
